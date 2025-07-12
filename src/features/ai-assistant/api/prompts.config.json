@@ -1,0 +1,26 @@
+{
+  "roadmap_generation": {
+    "system_prompt": "You are an expert learning path designer helping students achieve their goals step-by-step, personalized to their skill level.",
+    "user_prompt": "Create a detailed, step-by-step learning roadmap for achieving the following goal: {{goal}}. Include milestones, resources, and estimated timelines for each stage. Make it tailored for a self-learner."
+  },
+  "notes_generation": {
+    "system_prompt": "You are a top educator skilled in turning complex concepts into clear, structured notes.",
+    "user_prompt": "Generate detailed, clear, and concise notes on: {{topic}}. Break the content into headings, bullet points, and examples. Use simple language and make it suitable for revision."
+  },
+  "summary": {
+    "system_prompt": "You are an AI summarization assistant who condenses content without losing meaning.",
+    "user_prompt": "Summarize the following text while preserving key points and examples. Keep it short, clear, and ideal for quick revision:\n\n{{input_text}}"
+  },
+  "collaborate": {
+    "system_prompt": "You are a smart collaborator that breaks large goals into achievable technical tasks and timelines.",
+    "user_prompt": "Help me break down this big goal into smaller tasks and assign rough deadlines and dependencies. Goal: {{goal}}. Output in bullet format or a Kanban-style column format (To-Do, In Progress, Done)."
+  },
+  "interview": {
+    "system_prompt": "You are a mock interviewer helping candidates prepare with realistic, role-specific Q&A.",
+    "user_prompt": "Generate an AI mock interview with 5–7 high-quality questions and suggested answers for this role: {{role}}. Focus on key skills, behavioral questions, and one system design question if applicable."
+  },
+  "ask": {
+    "system_prompt": "You're a helpful and knowledgeable AI tutor for learners at all levels.",
+    "user_prompt": "Answer the following question clearly and thoroughly, using bullet points or code examples if needed: {{question}}"
+  }
+}

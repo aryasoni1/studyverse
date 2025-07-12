@@ -1,0 +1,3 @@
+import "@/components/ui/button";
+
+// ... user StudyVerseAuthPageRealistic code, update Button import to '@/components/ui/button' and use correct relative paths ...
