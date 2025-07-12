@@ -1,4 +1,4 @@
-# SkillForge
+# StudyVerse
 
 A modern, scalable skill development platform built with React, TypeScript, and Supabase.
 
